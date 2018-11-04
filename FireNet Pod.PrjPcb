@@ -41,10 +41,10 @@ PrefsRevisionGUID=
 DocumentPath=Schematics\Block Diagram.SchDoc
 AnnotationEnabled=1
 AnnotateStartValue=1
-AnnotationIndexControlEnabled=0
+AnnotationIndexControlEnabled=1
 AnnotateSuffix=
 AnnotateScope=All
-AnnotateOrder=-1
+AnnotateOrder=0
 DoLibraryUpdate=1
 DoDatabaseUpdate=1
 ClassGenCCAutoEnabled=1
@@ -55,13 +55,30 @@ GenerateClassCluster=0
 DocumentUniqueId=CMMIUEIJ
 
 [Document2]
+DocumentPath=Schematics\Power Stage.SchDoc
+AnnotationEnabled=1
+AnnotateStartValue=1
+AnnotationIndexControlEnabled=1
+AnnotateSuffix=
+AnnotateScope=All
+AnnotateOrder=4
+DoLibraryUpdate=1
+DoDatabaseUpdate=1
+ClassGenCCAutoEnabled=1
+ClassGenCCAutoRoomEnabled=1
+ClassGenNCAutoScope=None
+DItemRevisionGUID=
+GenerateClassCluster=0
+DocumentUniqueId=HXKVLLPV
+
+[Document3]
 DocumentPath=Schematics\Microcontroller Interface.SchDoc
 AnnotationEnabled=1
 AnnotateStartValue=1
-AnnotationIndexControlEnabled=0
+AnnotationIndexControlEnabled=1
 AnnotateSuffix=
 AnnotateScope=All
-AnnotateOrder=-1
+AnnotateOrder=1
 DoLibraryUpdate=1
 DoDatabaseUpdate=1
 ClassGenCCAutoEnabled=1
@@ -71,14 +88,14 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=HROPMPAX
 
-[Document3]
+[Document4]
 DocumentPath=Schematics\Sensors.SchDoc
 AnnotationEnabled=1
 AnnotateStartValue=1
-AnnotationIndexControlEnabled=0
+AnnotationIndexControlEnabled=1
 AnnotateSuffix=
 AnnotateScope=All
-AnnotateOrder=-1
+AnnotateOrder=2
 DoLibraryUpdate=1
 DoDatabaseUpdate=1
 ClassGenCCAutoEnabled=1
@@ -87,23 +104,6 @@ ClassGenNCAutoScope=None
 DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=FUDVKAEL
-
-[Document4]
-DocumentPath=Schematics\Power Stage.SchDoc
-AnnotationEnabled=1
-AnnotateStartValue=1
-AnnotationIndexControlEnabled=0
-AnnotateSuffix=
-AnnotateScope=All
-AnnotateOrder=-1
-DoLibraryUpdate=1
-DoDatabaseUpdate=1
-ClassGenCCAutoEnabled=1
-ClassGenCCAutoRoomEnabled=1
-ClassGenNCAutoScope=None
-DItemRevisionGUID=
-GenerateClassCluster=0
-DocumentUniqueId=HXKVLLPV
 
 [Document5]
 DocumentPath=Ram's Schematics Libary.SchLib
@@ -126,10 +126,10 @@ DocumentUniqueId=MWYMFEGL
 DocumentPath=Schematics\LoRa Transceiver.SchDoc
 AnnotationEnabled=1
 AnnotateStartValue=1
-AnnotationIndexControlEnabled=0
+AnnotationIndexControlEnabled=1
 AnnotateSuffix=
 AnnotateScope=All
-AnnotateOrder=-1
+AnnotateOrder=3
 DoLibraryUpdate=1
 DoDatabaseUpdate=1
 ClassGenCCAutoEnabled=1
@@ -177,6 +177,45 @@ Variant=[No Variations]
 OutputJobsCount=0
 ContentTypeGUID=
 ConfigurationType=
+
+[Generic_SmartPDF]
+AutoOpenFile=-1
+AutoOpenOutJob=-1
+
+[Generic_SmartPDFSettings]
+ProjectMode=-1
+ZoomPrecision=50
+AddNetsInformation=-1
+AddNetPins=-1
+AddNetNetLabels=-1
+AddNetPorts=-1
+ShowComponentParameters=-1
+GlobalBookmarks=0
+ExportBOM=-1
+TemplateFilename=Board Stack Report.XLT
+TemplateStoreRelative=-1
+PCB_PrintColor=1
+SCH_PrintColor=0
+PrintQuality=-3
+SCH_ShowNoErc=-1
+SCH_ShowParameter=-1
+SCH_ShowProbes=-1
+SCH_ShowBlankets=-1
+SCH_NoERCSymbolsToShow="Thin Cross","Thick Cross","Small Cross",Checkbox,Triangle
+SCH_ShowNote=-1
+SCH_ShowNoteCollapsed=-1
+SCH_ExpandLogicalToPhysical=0
+SCH_VariantName=[No Variations]
+SCH_ExpandComponentDesignators=-1
+SCH_ExpandNetlabels=0
+SCH_ExpandPorts=0
+SCH_ExpandSheetNumber=0
+SCH_ExpandDocumentNumber=0
+SCH_HasExpandLogicalToPhysicalSheets=-1
+SaveSettingsToOutJob=-1
+
+[Generic_EDE]
+OutputDir=
 
 [OutputGroup1]
 Name=Netlist Outputs
