@@ -72,6 +72,23 @@ GenerateClassCluster=0
 DocumentUniqueId=HROPMPAX
 
 [Document3]
+DocumentPath=Schematics\Debug.SchDoc
+AnnotationEnabled=1
+AnnotateStartValue=1
+AnnotationIndexControlEnabled=0
+AnnotateSuffix=
+AnnotateScope=All
+AnnotateOrder=-1
+DoLibraryUpdate=1
+DoDatabaseUpdate=1
+ClassGenCCAutoEnabled=1
+ClassGenCCAutoRoomEnabled=1
+ClassGenNCAutoScope=None
+DItemRevisionGUID=
+GenerateClassCluster=0
+DocumentUniqueId=RPTRMKXO
+
+[Document4]
 DocumentPath=Schematics\Power Stage.SchDoc
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -88,7 +105,7 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=HXKVLLPV
 
-[Document4]
+[Document5]
 DocumentPath=Schematics\Sensors.SchDoc
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -105,7 +122,7 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=FUDVKAEL
 
-[Document5]
+[Document6]
 DocumentPath=Ram's Schematics Libary.SchLib
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -122,7 +139,7 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=MWYMFEGL
 
-[Document6]
+[Document7]
 DocumentPath=Schematics\LoRa Transceiver.SchDoc
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -139,7 +156,7 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=IAEQNSRA
 
-[Document7]
+[Document8]
 DocumentPath=Libraries\Ram's Component Library.PcbLib
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -156,7 +173,7 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=GHDIHXYW
 
-[Document8]
+[Document9]
 DocumentPath=Schematics\Off-Board Sensors.SchDoc
 AnnotationEnabled=1
 AnnotateStartValue=1
