@@ -75,10 +75,10 @@ DocumentUniqueId=HROPMPAX
 DocumentPath=Schematics\Debug.SchDoc
 AnnotationEnabled=1
 AnnotateStartValue=1
-AnnotationIndexControlEnabled=0
+AnnotationIndexControlEnabled=1
 AnnotateSuffix=
 AnnotateScope=All
-AnnotateOrder=-1
+AnnotateOrder=3
 DoLibraryUpdate=1
 DoDatabaseUpdate=1
 ClassGenCCAutoEnabled=1
@@ -146,7 +146,7 @@ AnnotateStartValue=1
 AnnotationIndexControlEnabled=1
 AnnotateSuffix=
 AnnotateScope=All
-AnnotateOrder=3
+AnnotateOrder=5
 DoLibraryUpdate=1
 DoDatabaseUpdate=1
 ClassGenCCAutoEnabled=1
@@ -177,10 +177,10 @@ DocumentUniqueId=GHDIHXYW
 DocumentPath=Schematics\Off-Board Sensors.SchDoc
 AnnotationEnabled=1
 AnnotateStartValue=1
-AnnotationIndexControlEnabled=0
+AnnotationIndexControlEnabled=1
 AnnotateSuffix=
 AnnotateScope=All
-AnnotateOrder=-1
+AnnotateOrder=6
 DoLibraryUpdate=1
 DoDatabaseUpdate=1
 ClassGenCCAutoEnabled=1
@@ -191,16 +191,16 @@ GenerateClassCluster=0
 DocumentUniqueId=CQHJNGHU
 
 [Parameter1]
-Name=Drawn By
-Value=Ram Alexiev
+Name=Project Name
+Value=FireNet Pod
 
 [Parameter2]
 Name=Engineer
 Value=Ram Alexiev
 
 [Parameter3]
-Name=Project Name
-Value=FireNet Pod
+Name=Drawn By
+Value=Ram Alexiev
 
 [Configuration1]
 Name=Default Configuration
@@ -1027,7 +1027,7 @@ Type64=1
 Type65=1
 
 [Electrical Rules Check]
-Type1=1
+Type1=0
 Type2=1
 Type3=2
 Type4=1
@@ -1039,7 +1039,7 @@ Type9=1
 Type10=1
 Type11=2
 Type12=2
-Type13=2
+Type13=1
 Type14=1
 Type15=1
 Type16=1
@@ -1060,7 +1060,7 @@ Type30=1
 Type31=1
 Type32=2
 Type33=2
-Type34=2
+Type34=1
 Type35=1
 Type36=2
 Type37=1
@@ -1083,7 +1083,7 @@ Type53=1
 Type54=1
 Type55=1
 Type56=2
-Type57=1
+Type57=2
 Type58=1
 Type59=2
 Type60=1
@@ -1152,22 +1152,22 @@ Type122=2
 
 [ERC Connection Matrix]
 L1=NNNNNNNNNNNWNNNWW
-L2=NNWNNNNWWWNWNWNWN
-L3=NWEENEEEENEWNEEWN
-L4=NNENNNWEENNWNENWN
-L5=NNNNNNNNNNNNNNNNN
-L6=NNENNNNEENNWNENWN
-L7=NNEWNNWEENNWNENWN
-L8=NWEENEENEEENNEENN
-L9=NWEENEEEENEWNEEWW
-L10=NWNNNNNENNEWNNEWN
-L11=NNENNNNEEENWNENWN
-L12=WWWWNWWNWWWNWWWNN
+L2=NNWNNNNWWWNWNWNWW
+L3=NWEENEENENEWNEEWW
+L4=NNENNNWEENNWNENWW
+L5=NNNNNNNNNNNNNNNNW
+L6=NNENNNNEENNWNENWW
+L7=NNEWNNWEENNWNENWW
+L8=NWNENEENWWWNNWENW
+L9=NWEENEEWWNWWNWWWW
+L10=NWNNNNNWNNEWNNEWW
+L11=NNENNNNWWENWNENWW
+L12=WWWWNWWNWWWNWWWNW
 L13=NNNNNNNNNNNWNNNWW
-L14=NWEENEEEENEWNEEWW
-L15=NNENNNNEEENWNENWW
-L16=WWWWNWWNWWWNWWWNW
-L17=WNNNNNNNWNNNWWWWN
+L14=NWEENEEWWNEWNEEWW
+L15=NNENNNNEWENWNENWW
+L16=WWWWNWWNWWWNWWWNN
+L17=WWWWWWWWWWWWWWWNN
 
 [Annotate]
 SortOrder=3
