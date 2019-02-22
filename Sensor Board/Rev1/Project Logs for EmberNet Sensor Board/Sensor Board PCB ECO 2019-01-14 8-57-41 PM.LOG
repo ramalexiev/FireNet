@@ -1,0 +1,42 @@
+Removed Pin From Net: NetName=GND Pin=B5-1
+Removed Pin From Net: NetName=GND Pin=B6-1
+Removed Pin From Net: NetName=GND Pin=B7-1
+Change Component Designator: OldDesignator=B5 NewDesignator=B1
+Change Component Designator: OldDesignator=B6 NewDesignator=B2
+Change Component Designator: OldDesignator=B7 NewDesignator=B3
+Change Component Designator: OldDesignator=C50 NewDesignator=C1
+Change Component Designator: OldDesignator=C51 NewDesignator=C2
+Change Component Designator: OldDesignator=C52 NewDesignator=C3
+Change Component Designator: OldDesignator=C53 NewDesignator=C4
+Change Component Designator: OldDesignator=C54 NewDesignator=C5
+Change Component Designator: OldDesignator=C55 NewDesignator=C6
+Change Component Designator: OldDesignator=D9 NewDesignator=D1
+Change Component Designator: OldDesignator=J4 NewDesignator=J1
+Change Component Designator: OldDesignator=Q3 NewDesignator=Q1
+Change Component Designator: OldDesignator=R41 NewDesignator=R1
+Change Component Designator: OldDesignator=R42 NewDesignator=R2
+Change Component Designator: OldDesignator=R43 NewDesignator=R3
+Change Component Designator: OldDesignator=R44 NewDesignator=R4
+Change Component Designator: OldDesignator=R45 NewDesignator=R5
+Change Component Designator: OldDesignator=R46 NewDesignator=R6
+Change Component Designator: OldDesignator=U10 NewDesignator=U1
+Change Component Designator: OldDesignator=U11 NewDesignator=U2
+Change Component Designator: OldDesignator=U12 NewDesignator=U3
+Change Component Designator: OldDesignator=U13 NewDesignator=U4
+Change Component Designator: OldDesignator=W5 NewDesignator=W1
+Change Component Designator: OldDesignator=W6 NewDesignator=W2
+Change Component Designator: OldDesignator=W7 NewDesignator=W3
+Added Pin To Net: NetName=GND Pin=D1-2
+Added Pin To Net: NetName=GND Pin=U1-7
+Added Pin To Net: NetName=GND Pin=U4-1
+Change Net Name : Old Net Name=NetQ3_2 New Net Name=NetQ1_2
+Change Net Name : Old Net Name=NetQ3_5 New Net Name=NetQ1_5
+Change Net Name : Old Net Name=NetR45_1 New Net Name=NetR5_1
+Change Net Name : Old Net Name=NetR46_1 New Net Name=NetR6_1
+Change Net Name : Old Net Name=NetU11_4 New Net Name=NetU2_4
+Added Member To Class: ClassName=Off-Board Sensors Member=Component D1 NSP4201MR6T1G
+Added Member To Class: ClassName=Off-Board Sensors Member=Component Q1 NTJD5121NT1G
+Added Member To Class: ClassName=Off-Board Sensors Member=Component U1 SGP30
+Added Member To Class: ClassName=Off-Board Sensors Member=Component U3 BME280
+Added Member To Class: ClassName=Off-Board Sensors Member=Component U4 AP2138N-1.8TRG1
+Added Room: Name=Off-Board Sensors

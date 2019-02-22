@@ -1,0 +1,98 @@
+Added Pin To Net: NetName=GND Pin=C50-1
+Added Pin To Net: NetName=1V8 Pin=C50-2
+Added Pin To Net: NetName=GND Pin=C51-1
+Added Pin To Net: NetName=1V8 Pin=C51-2
+Added Pin To Net: NetName=GND Pin=C52-1
+Added Pin To Net: NetName=VBAT_S Pin=C52-2
+Added Pin To Net: NetName=GND Pin=C53-1
+Added Pin To Net: NetName=VBAT_S Pin=C53-2
+Added Pin To Net: NetName=GND Pin=C54-1
+Added Pin To Net: NetName=VBAT_S Pin=C54-2
+Added Pin To Net: NetName=GND Pin=C55-1
+Added Pin To Net: NetName=VBAT_S Pin=C55-2
+Added Pin To Net: NetName=GND Pin=D9-2
+Added Pin To Net: NetName=VBAT_S Pin=D9-4
+Added Pin To Net: NetName=OB_I2C_SDA Pin=D9-5
+Added Pin To Net: NetName=OB_I2C_SCL Pin=D9-6
+Added Pin To Net: NetName=GND Pin=GND1-1
+Added Pin To Net: NetName=VBAT_S Pin=J4-1
+Added Pin To Net: NetName=OB_I2C_SCL Pin=J4-2
+Added Pin To Net: NetName=OB_I2C_SDA Pin=J4-3
+Added Pin To Net: NetName=GND Pin=J4-4
+Added Pin To Net: NetName=I2C_SCL_1V8 Pin=Q3-1
+Added Pin To Net: NetName=NetQ3_2 Pin=Q3-2
+Added Pin To Net: NetName=OB_I2C_SDA Pin=Q3-3
+Added Pin To Net: NetName=I2C_SDA_1V8 Pin=Q3-4
+Added Pin To Net: NetName=NetQ3_5 Pin=Q3-5
+Added Pin To Net: NetName=OB_I2C_SCL Pin=Q3-6
+Added Pin To Net: NetName=1V8 Pin=R41-1
+Added Pin To Net: NetName=NetQ3_2 Pin=R41-2
+Added Pin To Net: NetName=I2C_SCL_1V8 Pin=R42-1
+Added Pin To Net: NetName=1V8 Pin=R42-2
+Added Pin To Net: NetName=1V8 Pin=R43-1
+Added Pin To Net: NetName=NetQ3_5 Pin=R43-2
+Added Pin To Net: NetName=I2C_SDA_1V8 Pin=R44-1
+Added Pin To Net: NetName=1V8 Pin=R44-2
+Added Pin To Net: NetName=NetR45_1 Pin=R45-1
+Added Pin To Net: NetName=VBAT_S Pin=R45-2
+Added Pin To Net: NetName=NetR46_1 Pin=R46-1
+Added Pin To Net: NetName=VBAT_S Pin=R46-2
+Added Pin To Net: NetName=OB_I2C_SCL Pin=S_SCL1-1
+Added Pin To Net: NetName=OB_I2C_SDA Pin=S_SDA1-1
+Added Pin To Net: NetName=I2C_SCL_1V8 Pin=SCL_1-1
+Added Pin To Net: NetName=I2C_SDA_1V8 Pin=SDA_1-1
+Added Pin To Net: NetName=1V8 Pin=U10-1
+Added Pin To Net: NetName=I2C_SDA_1V8 Pin=U10-3
+Added Pin To Net: NetName=GND Pin=U10-4
+Added Pin To Net: NetName=1V8 Pin=U10-5
+Added Pin To Net: NetName=I2C_SCL_1V8 Pin=U10-6
+Added Pin To Net: NetName=GND Pin=U10-7
+Added Pin To Net: NetName=GND Pin=U11-1
+Added Pin To Net: NetName=NetR46_1 Pin=U11-2
+Added Pin To Net: NetName=NetU11_4 Pin=U11-4
+Added Pin To Net: NetName=NetU11_4 Pin=U11-5
+Added Pin To Net: NetName=VBAT_S Pin=U11-6
+Added Pin To Net: NetName=GND Pin=U11-7
+Added Pin To Net: NetName=GND Pin=U11-8
+Added Pin To Net: NetName=OB_I2C_SDA Pin=U11-9
+Added Pin To Net: NetName=OB_I2C_SCL Pin=U11-10
+Added Pin To Net: NetName=GND Pin=U11-11
+Added Pin To Net: NetName=GND Pin=U12-1
+Added Pin To Net: NetName=NetR45_1 Pin=U12-2
+Added Pin To Net: NetName=OB_I2C_SDA Pin=U12-3
+Added Pin To Net: NetName=OB_I2C_SCL Pin=U12-4
+Added Pin To Net: NetName=NetR45_1 Pin=U12-5
+Added Pin To Net: NetName=VBAT_S Pin=U12-6
+Added Pin To Net: NetName=GND Pin=U12-7
+Added Pin To Net: NetName=VBAT_S Pin=U12-8
+Added Pin To Net: NetName=GND Pin=U13-1
+Added Pin To Net: NetName=1V8 Pin=U13-2
+Added Pin To Net: NetName=VBAT_S Pin=U13-3
+Added Pin To Net: NetName=VBAT_S Pin=VBAT1-1
+Added Member To Class: ClassName=Off-Board Sensors Member=Component B5 91290A123
+Added Member To Class: ClassName=Off-Board Sensors Member=Component B6 91290A123
+Added Member To Class: ClassName=Off-Board Sensors Member=Component B7 91290A123
+Added Member To Class: ClassName=Off-Board Sensors Member=Component C50 885012206046
+Added Member To Class: ClassName=Off-Board Sensors Member=Component C51 885012106022
+Added Member To Class: ClassName=Off-Board Sensors Member=Component C52 885012206046
+Added Member To Class: ClassName=Off-Board Sensors Member=Component C53 885012206046
+Added Member To Class: ClassName=Off-Board Sensors Member=Component C54 885012106022
+Added Member To Class: ClassName=Off-Board Sensors Member=Component C55 CL21A475KACLRNC
+Added Member To Class: ClassName=Off-Board Sensors Member=Component GND1 5003
+Added Member To Class: ClassName=Off-Board Sensors Member=Component J4 T4141012041-000
+Added Member To Class: ClassName=Off-Board Sensors Member=Component R41 CRCW060333R0FKEAC
+Added Member To Class: ClassName=Off-Board Sensors Member=Component R42 ERJ-3EKF4701V
+Added Member To Class: ClassName=Off-Board Sensors Member=Component R43 CRCW060333R0FKEAC
+Added Member To Class: ClassName=Off-Board Sensors Member=Component R44 ERJ-3EKF4701V
+Added Member To Class: ClassName=Off-Board Sensors Member=Component R45 RC0603FR-0710KL
+Added Member To Class: ClassName=Off-Board Sensors Member=Component R46 ERJ-3EKF4701V
+Added Member To Class: ClassName=Off-Board Sensors Member=Component S_SCL1 5003
+Added Member To Class: ClassName=Off-Board Sensors Member=Component S_SDA1 5003
+Added Member To Class: ClassName=Off-Board Sensors Member=Component SCL_1 Via
+Added Member To Class: ClassName=Off-Board Sensors Member=Component SDA_1 Via
+Added Member To Class: ClassName=Off-Board Sensors Member=Component U11 CCS811
+Added Member To Class: ClassName=Off-Board Sensors Member=Component VBAT1 5003
+Added Member To Class: ClassName=Off-Board Sensors Member=Component W5 91290A254
+Added Member To Class: ClassName=Off-Board Sensors Member=Component W6 91290A254
+Added Member To Class: ClassName=Off-Board Sensors Member=Component W7 91290A254
+Added Room: Name=Off-Board Sensors
