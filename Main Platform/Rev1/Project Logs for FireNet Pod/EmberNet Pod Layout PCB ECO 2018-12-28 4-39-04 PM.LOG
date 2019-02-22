@@ -1,0 +1,13 @@
+Removed Pin From Net: NetName=OB_I2C_SCL Pin=J4-2
+Removed Pin From Net: NetName=OB_I2C_SDA Pin=J4-3
+Added Component: Designator=SCL_1(Via test point)
+Add component. Clean all parameters for all variants
+Added Component: Designator=SDA_1(Via test point)
+Add component. Clean all parameters for all variants
+Added Pin To Net: NetName=OB_I2C_SDA Pin=J4-2
+Added Pin To Net: NetName=OB_I2C_SCL Pin=J4-3
+Added Pin To Net: NetName=I2C_SCL_1V8 Pin=SCL_1-1
+Added Pin To Net: NetName=I2C_SDA_1V8 Pin=SDA_1-1
+Added Member To Class: ClassName=Off-Board Sensors Member=Component SCL_1 Via
+Added Member To Class: ClassName=Off-Board Sensors Member=Component SDA_1 Via
+Added Member To Class: ClassName=Off-Board Sensors Member=Component U13 AP2138N-1.8TRG1

@@ -1,0 +1,16 @@
+Change Component Footprint: Designator=W1 Old Footprint=M3 Belleville Washer New Footprint=M5 Belleville Washer
+Change Component Footprint: Designator=W2 Old Footprint=M3 Belleville Washer New Footprint=M5 Belleville Washer
+Change Component Footprint: Designator=W3 Old Footprint=M3 Belleville Washer New Footprint=M5 Belleville Washer
+Change Component Footprint: Designator=W4 Old Footprint=M3 Belleville Washer New Footprint=M5 Belleville Washer
+Added Component: Designator=B1(M5 SHCP)
+Add component. Clean all parameters for all variants
+Added Component: Designator=B2(M5 SHCP)
+Add component. Clean all parameters for all variants
+Added Component: Designator=B3(M5 SHCP)
+Add component. Clean all parameters for all variants
+Added Component: Designator=B4(M5 SHCP)
+Add component. Clean all parameters for all variants
+Added Member To Class: ClassName=Debug Member=Component B1 91290A123
+Added Member To Class: ClassName=Debug Member=Component B2 91290A123
+Added Member To Class: ClassName=Debug Member=Component B3 91290A123
+Added Member To Class: ClassName=Debug Member=Component B4 91290A123

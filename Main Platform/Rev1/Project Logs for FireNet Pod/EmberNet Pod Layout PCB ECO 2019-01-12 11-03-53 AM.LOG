@@ -1,0 +1,12 @@
+Removed Pin From Net: NetName=VBAT_PR_IN Pin=J2-5
+Removed Pin From Net: NetName=VBAT_PR_IN Pin=J2-5
+Removed Pin From Net: NetName=GND Pin=J2-6
+Removed Pin From Net: NetName=GND Pin=J2-6
+Added Component: Designator=TP8(Via test point)
+Add component. Clean all parameters for all variants
+Added Pin To Net: NetName=GND Pin=J2-2
+Added Pin To Net: NetName=GND Pin=J2-2
+Added Pin To Net: NetName=VBAT_PR_IN Pin=J2-3
+Added Pin To Net: NetName=VBAT_PR_IN Pin=J2-3
+Added Pin To Net: NetName=3V3_OUT Pin=TP8-1
+Added Member To Class: ClassName=Power Stage Member=Component TP8 Via

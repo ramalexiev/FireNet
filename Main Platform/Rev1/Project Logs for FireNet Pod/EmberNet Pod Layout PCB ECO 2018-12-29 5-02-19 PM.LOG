@@ -1,0 +1,4 @@
+Removed Pin From Net: NetName=IO_DEBUG Pin=U1-12
+Removed Pin From Net: NetName=SENSORS_EN Pin=U1-43
+Added Pin To Net: NetName=SENSORS_EN Pin=U1-21
+Added Pin To Net: NetName=IO_DEBUG Pin=U1-22

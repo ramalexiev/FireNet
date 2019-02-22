@@ -1,0 +1,7 @@
+Change Component Designator: OldDesignator=D8 NewDesignator=D9
+Added Room: Name=Debug
+Added Room: Name=LoRa Transceiver
+Added Room: Name=Microcontroller Interface
+Added Room: Name=Off-Board Sensors
+Added Room: Name=Power Stage
+Added Room: Name=Sensors

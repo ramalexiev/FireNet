@@ -1,0 +1,10 @@
+Added Pin To Net: NetName=I2C_SCL_1V8 Pin=R42-1
+Added Pin To Net: NetName=1V8 Pin=R42-2
+Added Pin To Net: NetName=I2C_SDA_1V8 Pin=R44-1
+Added Pin To Net: NetName=1V8 Pin=R44-2
+Added Member To Class: ClassName=Off-Board Sensors Member=Component B5 91290A123
+Added Member To Class: ClassName=Off-Board Sensors Member=Component B6 91290A123
+Added Member To Class: ClassName=Off-Board Sensors Member=Component R42 ERJ-3EKF4701V
+Added Member To Class: ClassName=Off-Board Sensors Member=Component R44 ERJ-3EKF4701V
+Added Member To Class: ClassName=Off-Board Sensors Member=Component W5 91290A254
+Added Member To Class: ClassName=Off-Board Sensors Member=Component W6 91290A254

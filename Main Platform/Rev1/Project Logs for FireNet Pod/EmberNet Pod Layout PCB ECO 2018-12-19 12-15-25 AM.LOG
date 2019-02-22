@@ -1,0 +1,9 @@
+Change Component Designator: OldDesignator=TP6 NewDesignator=CS_1
+Change Component Designator: OldDesignator=TP7 NewDesignator=CS_2
+Change Component Designator: OldDesignator=TP8 NewDesignator=CLK_1
+Change Component Designator: OldDesignator=TP9 NewDesignator=CLK_2
+Change Component Designator: OldDesignator=TP10 NewDesignator=MISO_1
+Change Component Designator: OldDesignator=TP11 NewDesignator=MISO_2
+Change Component Designator: OldDesignator=TP12 NewDesignator=MOSI_1
+Change Component Designator: OldDesignator=TP13 NewDesignator=MOSI_2
+Change Component Designator: OldDesignator=TP18 NewDesignator=VBAT

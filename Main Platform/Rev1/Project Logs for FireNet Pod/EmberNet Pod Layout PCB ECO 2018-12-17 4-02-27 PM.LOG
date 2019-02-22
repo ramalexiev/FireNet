@@ -1,0 +1,6 @@
+Change Component Designator: OldDesignator=TP22 NewDesignator=SCL
+Change Component Designator: OldDesignator=TP23 NewDesignator=SDA
+Change Component Designator: OldDesignator=TP24 NewDesignator=VBAT
+Change Component Designator: OldDesignator=TP25 NewDesignator=1V8
+Change Component Designator: OldDesignator=TP26 NewDesignator=GND
+Added Pin To Net: NetName=NetR33_1 Pin=U5-3

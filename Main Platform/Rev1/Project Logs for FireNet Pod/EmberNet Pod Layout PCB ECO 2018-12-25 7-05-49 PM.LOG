@@ -1,0 +1,31 @@
+Removed Pin From Net: NetName=NetC35_2 Pin=R39-1
+Removed Pin From Net: NetName=NetC38_2 Pin=R39-2
+Removed Member From Class: ClassName=LoRa Transceiver Member=R39
+Added Component: Designator=U9(SF2098E)
+Add component. Clean all parameters for all variants
+Add component (AddParameter): Name = "Availability"; Value = "Unavailable"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "MF"; Value = "Murata Electronics"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "MP"; Value = "SF2098E"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Package"; Value = "SMD-6 Murata"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Price"; Value = "None"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "SnapEDA_Link"; Value = "https://www.snapeda.com/parts/SF2098E/Murata%20Electronics%20North%20America/view-part/?ref=snap"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = ""; VariantName = "[No Variations]"
+Added Pin To Net: NetName=GND Pin=U9-1
+Added Pin To Net: NetName=NetC35_2 Pin=U9-2
+Added Pin To Net: NetName=GND Pin=U9-3
+Added Pin To Net: NetName=GND Pin=U9-4
+Added Pin To Net: NetName=NetC38_2 Pin=U9-5
+Added Pin To Net: NetName=GND Pin=U9-6
+Added Member To Class: ClassName=LoRa Transceiver Member=Component U9 SF2098E
+Added Room: Name=Debug
+Added Room: Name=LoRa Transceiver
+Added Room: Name=Microcontroller Interface
+Added Room: Name=Off-Board Sensors
+Added Room: Name=Power Stage
+Added Room: Name=Sensors
+PCB-ECO: Change Pad Pin/Pkg Length: Old=0mm New=1mm
+PCB-ECO: Change Pad Pin/Pkg Length: Old=0mm New=1mm
+PCB-ECO: Change Pad Pin/Pkg Length: Old=0mm New=1mm
+PCB-ECO: Change Pad Pin/Pkg Length: Old=0mm New=1mm
+PCB-ECO: Change Pad Pin/Pkg Length: Old=0mm New=1mm
+PCB-ECO: Change Pad Pin/Pkg Length: Old=0mm New=1mm

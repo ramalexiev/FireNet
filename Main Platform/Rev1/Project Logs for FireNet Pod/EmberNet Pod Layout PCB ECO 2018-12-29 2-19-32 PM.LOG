@@ -1,0 +1,10 @@
+Removed Pin From Net: NetName=TEMP_ADC Pin=U1-13
+Removed Pin From Net: NetName=SPI_AS3935_CS Pin=U1-14
+Removed Pin From Net: NetName=REF_EN Pin=U1-19
+Added Pin To Net: NetName=SPI_AS3935_CS Pin=R1-2
+Added Pin To Net: NetName=IO_DEBUG Pin=U1-12
+Added Pin To Net: NetName=REF_EN Pin=U1-38
+Added Pin To Net: NetName=TEMP_ADC Pin=U1-42
+Added Pin To Net: NetName=NetR1_1 Pin=R1-1
+Added Pin To Net: NetName=NetR1_1 Pin=U1-14
+Added Net: Name=NetR1_1

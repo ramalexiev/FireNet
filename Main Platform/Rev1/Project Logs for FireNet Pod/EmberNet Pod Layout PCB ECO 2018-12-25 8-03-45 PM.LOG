@@ -1,0 +1,22 @@
+Removed Pin From Net: NetName=VBAT Pin=D8-5
+Removed Pin From Net: NetName=VBAT Pin=J2-1
+Added Pin To Net: NetName=GND Pin=D8-2
+Added Pin To Net: NetName=3V3_OUT Pin=D8-4
+Added Pin To Net: NetName=VBAT_S Pin=D8-5
+Added Pin To Net: NetName=VBAT_S Pin=J2-1
+Added Net: Name=VBAT_S
+Added Member To Class: ClassName=Power Stage Member=Component D8 NSP4201MR6T1G
+Added Room: Name=LoRa Transceiver
+Added Room: Name=Off-Board Sensors
+PCB-ECO: Change Pad Pin/Pkg Length: Old=0mm New=1mm
+PCB-ECO: Change Pad Pin/Pkg Length: Old=1mm New=0mm
+PCB-ECO: Change Pad Pin/Pkg Length: Old=0mm New=1mm
+PCB-ECO: Change Pad Pin/Pkg Length: Old=1mm New=0mm
+PCB-ECO: Change Pad Pin/Pkg Length: Old=0mm New=1mm
+PCB-ECO: Change Pad Pin/Pkg Length: Old=1mm New=0mm
+PCB-ECO: Change Pad Pin/Pkg Length: Old=0mm New=1mm
+PCB-ECO: Change Pad Pin/Pkg Length: Old=1mm New=0mm
+PCB-ECO: Change Pad Pin/Pkg Length: Old=0mm New=1mm
+PCB-ECO: Change Pad Pin/Pkg Length: Old=1mm New=0mm
+PCB-ECO: Change Pad Pin/Pkg Length: Old=0mm New=1mm
+PCB-ECO: Change Pad Pin/Pkg Length: Old=1mm New=0mm

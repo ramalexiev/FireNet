@@ -1,0 +1,2 @@
+Removed Pin From Net: NetName=SX1272_NRST Pin=U1-25
+Added Pin To Net: NetName=SX1272_NRST Pin=U1-30

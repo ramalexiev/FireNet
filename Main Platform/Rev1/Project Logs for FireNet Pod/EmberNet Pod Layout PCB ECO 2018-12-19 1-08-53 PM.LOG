@@ -1,0 +1,15 @@
+Added Component: Designator=J1(PPTC061LFBN-RC)
+Add component. Clean all parameters for all variants
+Added Pin To Net: NetName=VBAT Pin=J1-1
+Added Pin To Net: NetName=SWCLK Pin=J1-2
+Added Pin To Net: NetName=GND Pin=J1-3
+Added Pin To Net: NetName=SWDIO Pin=J1-4
+Added Pin To Net: NetName=NRST Pin=J1-5
+Added Pin To Net: NetName=SWO Pin=J1-6
+Added Member To Class: ClassName=Microcontroller Interface Member=Component J1 SSW-106-01-T-S
+Added Room: Name=Debug
+Added Room: Name=LoRa Transceiver
+Added Room: Name=Microcontroller Interface
+Added Room: Name=Off-Board Sensors
+Added Room: Name=Power Stage
+Added Room: Name=Sensors

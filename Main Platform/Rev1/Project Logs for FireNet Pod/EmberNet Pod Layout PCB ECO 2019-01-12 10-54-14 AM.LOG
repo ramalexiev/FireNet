@@ -1,0 +1,14 @@
+Added Pin To Net: NetName=3V3_OUT Pin=J2-1
+Added Pin To Net: NetName=3V3_OUT Pin=J2-1
+Added Pin To Net: NetName=GND Pin=J2-4
+Added Pin To Net: NetName=GND Pin=J2-4
+Added Pin To Net: NetName=VBAT_PR_IN Pin=J2-5
+Added Pin To Net: NetName=VBAT_PR_IN Pin=J2-5
+Added Pin To Net: NetName=GND Pin=J2-6
+Added Pin To Net: NetName=GND Pin=J2-6
+Added Room: Name=Debug
+Added Room: Name=LoRa Transceiver
+Added Room: Name=Microcontroller Interface
+Added Room: Name=Off-Board Sensors
+Added Room: Name=Power Stage
+Added Room: Name=Sensors

@@ -1,0 +1,22 @@
+Removed Pin From Net: NetName=VBAT Pin=C28-2
+Removed Pin From Net: NetName=VBAT Pin=C29-2
+Removed Pin From Net: NetName=3V0_REF Pin=C31-2
+Removed Pin From Net: NetName=3V0_REF Pin=U7-2
+Removed Pin From Net: NetName=VBAT Pin=U7-3
+Added Component: Designator=TP1(Via test point)
+Add component. Clean all parameters for all variants
+Added Pin To Net: NetName=VBAT Pin=C31-2
+Added Pin To Net: NetName=NetC12_2 Pin=TP1-1
+Added Pin To Net: NetName=NetC28_2 Pin=C28-2
+Added Pin To Net: NetName=NetC28_2 Pin=U7-3
+Added Net: Name=NetC28_2
+Added Pin To Net: NetName=NetC29_2 Pin=C29-2
+Added Pin To Net: NetName=NetC29_2 Pin=U7-2
+Added Net: Name=NetC29_2
+Added Member To Class: ClassName=Sensors Member=Component TP1 Via
+PCB-ECO: Change Pad Pin/Pkg Length: Old=0mm New=1mm
+PCB-ECO: Change Pad Pin/Pkg Length: Old=0mm New=1mm
+PCB-ECO: Change Pad Pin/Pkg Length: Old=0mm New=1mm
+PCB-ECO: Change Pad Pin/Pkg Length: Old=0mm New=1mm
+PCB-ECO: Change Pad Pin/Pkg Length: Old=0mm New=1mm
+PCB-ECO: Change Pad Pin/Pkg Length: Old=0mm New=1mm

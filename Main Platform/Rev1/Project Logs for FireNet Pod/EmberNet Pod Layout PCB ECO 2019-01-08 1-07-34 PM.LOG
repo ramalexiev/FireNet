@@ -1,0 +1,6 @@
+Added Component: Designator=B7(M3 SHCS)
+Add component. Clean all parameters for all variants
+Added Component: Designator=W7(M3 Belleville Washer)
+Add component. Clean all parameters for all variants
+Added Member To Class: ClassName=Off-Board Sensors Member=Component B7 91290A123
+Added Member To Class: ClassName=Off-Board Sensors Member=Component W7 91290A254

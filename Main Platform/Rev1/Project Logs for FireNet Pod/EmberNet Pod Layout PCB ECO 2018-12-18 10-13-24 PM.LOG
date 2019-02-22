@@ -1,0 +1,6 @@
+Removed Pin From Net: NetName=NetR33_1 Pin=U5-3
+Change Component Designator: OldDesignator=C53 NewDesignator=C54
+Change Component Kind : Designator=SCL_1V8 Old Kind=Standard (No BOM) New Kind=Standard
+Added Pin To Net: NetName=iSENSE_ADC Pin=U5-3
+Added Pin To Net: NetName=NetR33_1 Pin=U5-5
+Added Member To Class: ClassName=Off-Board Sensors Member=Component C54 CL21A475KACLRNC

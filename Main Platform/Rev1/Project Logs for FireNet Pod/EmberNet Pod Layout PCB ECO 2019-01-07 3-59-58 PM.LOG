@@ -1,0 +1,21 @@
+Added Component: Designator=B5(M3 SHCS)
+Add component. Clean all parameters for all variants
+Added Component: Designator=W1(M3 Belleville Washer)
+Add component. Clean all parameters for all variants
+Added Component: Designator=W2(M3 Belleville Washer)
+Add component. Clean all parameters for all variants
+Added Component: Designator=W3(M3 Belleville Washer)
+Add component. Clean all parameters for all variants
+Added Component: Designator=W4(M3 Belleville Washer)
+Add component. Clean all parameters for all variants
+Added Component: Designator=W5(M3 Belleville Washer)
+Add component. Clean all parameters for all variants
+Added Component: Designator=W6(M3 Belleville Washer)
+Add component. Clean all parameters for all variants
+Added Member To Class: ClassName=Off-Board Sensors Member=Component B5 91290A123
+Added Member To Class: ClassName=Debug Member=Component W1 91290A254
+Added Member To Class: ClassName=Debug Member=Component W2 91290A254
+Added Member To Class: ClassName=Debug Member=Component W3 91290A254
+Added Member To Class: ClassName=Debug Member=Component W4 91290A254
+Added Member To Class: ClassName=Off-Board Sensors Member=Component W5 91290A254
+Added Member To Class: ClassName=Off-Board Sensors Member=Component W6 91290A254

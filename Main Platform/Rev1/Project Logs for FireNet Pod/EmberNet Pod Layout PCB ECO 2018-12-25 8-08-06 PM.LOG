@@ -1,0 +1,3 @@
+Removed Pin From Net: NetName=3V3_OUT Pin=D9-4
+Removed Member From Class: ClassName=Power Stage Member=D9
+Added Pin To Net: NetName=OB_I2C_SDA Pin=D9-4

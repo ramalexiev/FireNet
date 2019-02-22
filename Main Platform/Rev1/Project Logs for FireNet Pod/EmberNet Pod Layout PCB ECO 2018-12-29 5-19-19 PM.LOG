@@ -1,0 +1,22 @@
+Change Component Footprint: Designator=CLK_1 Old Footprint=5003 TEST POINT New Footprint=5004 test point
+Change Component Footprint: Designator=CLK_2 Old Footprint=5003 TEST POINT New Footprint=5004 test point
+Change Component Footprint: Designator=CS_1 Old Footprint=5003 TEST POINT New Footprint=5004 test point
+Change Component Footprint: Designator=CS_2 Old Footprint=5003 TEST POINT New Footprint=5004 test point
+Change Component Footprint: Designator=GND1 Old Footprint=5003 TEST POINT New Footprint=5004 test point
+Change Component Footprint: Designator=MISO_1 Old Footprint=5003 TEST POINT New Footprint=5004 test point
+Change Component Footprint: Designator=MISO_2 Old Footprint=5003 TEST POINT New Footprint=5004 test point
+Change Component Footprint: Designator=MOSI_1 Old Footprint=5003 TEST POINT New Footprint=5004 test point
+Change Component Footprint: Designator=MOSI_2 Old Footprint=5003 TEST POINT New Footprint=5004 test point
+Change Component Footprint: Designator=S_SCL1 Old Footprint=5003 TEST POINT New Footprint=5004 test point
+Change Component Footprint: Designator=S_SDA1 Old Footprint=5003 TEST POINT New Footprint=5004 test point
+Change Component Footprint: Designator=S_VBAT1 Old Footprint=5003 TEST POINT New Footprint=5004 test point
+Change Component Footprint: Designator=SCL1 Old Footprint=5003 TEST POINT New Footprint=5004 test point
+Change Component Footprint: Designator=SDA1 Old Footprint=5003 TEST POINT New Footprint=5004 test point
+Change Component Footprint: Designator=TP2 Old Footprint=5003 TEST POINT New Footprint=5004 test point
+Change Component Footprint: Designator=VBAT1 Old Footprint=5003 TEST POINT New Footprint=5004 test point
+PCB-ECO: Change Pad Pin/Pkg Length: Old=0mm New=1mm
+PCB-ECO: Change Pad Pin/Pkg Length: Old=0mm New=1mm
+PCB-ECO: Change Pad Pin/Pkg Length: Old=0mm New=1mm
+PCB-ECO: Change Pad Pin/Pkg Length: Old=0mm New=1mm
+PCB-ECO: Change Pad Pin/Pkg Length: Old=0mm New=1mm
+PCB-ECO: Change Pad Pin/Pkg Length: Old=0mm New=1mm

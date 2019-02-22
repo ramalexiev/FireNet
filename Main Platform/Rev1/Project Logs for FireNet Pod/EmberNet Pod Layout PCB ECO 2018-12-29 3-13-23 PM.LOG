@@ -1,0 +1,9 @@
+Removed Pin From Net: NetName=SPI_AS3935_CS Pin=R1-2
+Removed Pin From Net: NetName=LTNG_WDG Pin=U1-11
+Removed Pin From Net: NetName=VREG_EN Pin=U1-13
+Added Pin To Net: NetName=SPI_AS3935_CS Pin=R1-1
+Added Pin To Net: NetName=LTNG_WDG Pin=U1-18
+Added Pin To Net: NetName=VREG_EN Pin=U1-20
+Added Pin To Net: NetName=NetR1_2 Pin=R1-2
+Added Pin To Net: NetName=NetR1_2 Pin=U1-19
+Added Net: Name=NetR1_2

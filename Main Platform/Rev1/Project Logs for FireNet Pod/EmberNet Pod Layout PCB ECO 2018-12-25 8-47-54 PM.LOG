@@ -1,0 +1,25 @@
+Removed Member From Class: ClassName=Power Stage Member=C31
+Removed Member From Class: ClassName=LoRa Transceiver Member=C52
+Removed Member From Class: ClassName=Off-Board Sensors Member=J2
+Removed Member From Class: ClassName=Power Stage Member=J4
+Removed Member From Class: ClassName=Off-Board Sensors Member=R40
+Added Component: Designator=J3(5-1814832-1)
+Add component. Clean all parameters for all variants
+Added Pin To Net: NetName=NetC45_2 Pin=J3-1
+Added Pin To Net: NetName=GND Pin=J3-2
+Added Pin To Net: NetName=GND Pin=J3-3
+Added Pin To Net: NetName=GND Pin=J3-4
+Added Member To Class: ClassName=Power Stage Member=Component C22 885012206046
+Added Member To Class: ClassName=LoRa Transceiver Member=Component C48 GJM1555C1H3R3CB01D
+Added Member To Class: ClassName=Power Stage Member=Component J2 1986775-6
+Added Member To Class: ClassName=LoRa Transceiver Member=Component J3 5-1814832-1
+Added Member To Class: ClassName=Off-Board Sensors Member=Component R41 CRCW060333R0FKEAC
+PCB-ECO: Change Pad Pin/Pkg Length: Old=0mm New=1mm
+PCB-ECO: Change Pad Pin/Pkg Length: Old=0mm New=1mm
+PCB-ECO: Change Pad Pin/Pkg Length: Old=0mm New=1mm
+PCB-ECO: Change Pad Pin/Pkg Length: Old=1mm New=0mm
+PCB-ECO: Change Pad Pin/Pkg Length: Old=1mm New=0mm
+PCB-ECO: Change Pad Pin/Pkg Length: Old=1mm New=0mm
+PCB-ECO: Change Pad Pin/Pkg Length: Old=1mm New=0mm
+PCB-ECO: Change Pad Pin/Pkg Length: Old=1mm New=0mm
+PCB-ECO: Change Pad Pin/Pkg Length: Old=1mm New=0mm

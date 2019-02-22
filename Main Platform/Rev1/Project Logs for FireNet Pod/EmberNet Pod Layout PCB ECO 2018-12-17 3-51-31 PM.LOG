@@ -1,0 +1,19 @@
+Added Pin To Net: NetName=NetR33_1 Pin=U5-3
+Added Pin To Net: NetName=NetQ3_3 Pin=Q3-3
+Added Pin To Net: NetName=NetQ3_3 Pin=TP23-1
+Added Net: Name=NetQ3_3
+Added Pin To Net: NetName=NetQ3_6 Pin=Q3-6
+Added Pin To Net: NetName=NetQ3_6 Pin=TP22-1
+Added Net: Name=NetQ3_6
+Added Pin To Net: NetName=OB_I2C_SCL Pin=D8-4
+Added Pin To Net: NetName=OB_I2C_SCL Pin=U10-4
+Added Net: Name=OB_I2C_SCL
+Added Pin To Net: NetName=OB_I2C_SDA Pin=D8-6
+Added Pin To Net: NetName=OB_I2C_SDA Pin=U10-3
+Added Net: Name=OB_I2C_SDA
+Added Room: Name=Debug
+Added Room: Name=LoRa Transceiver
+Added Room: Name=Microcontroller Interface
+Added Room: Name=Off-Board Sensors
+Added Room: Name=Power Stage
+Added Room: Name=Sensors

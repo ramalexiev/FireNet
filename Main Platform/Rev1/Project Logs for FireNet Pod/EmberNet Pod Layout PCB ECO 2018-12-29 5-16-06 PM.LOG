@@ -1,0 +1,12 @@
+Added Component: Designator=GND(5004 test point)
+Add component. Clean all parameters for all variants
+Added Component: Designator=SCL_1(Via test point)
+Add component. Clean all parameters for all variants
+Added Component: Designator=SDA_1(Via test point)
+Add component. Clean all parameters for all variants
+Added Pin To Net: NetName=GND Pin=GND-1
+Added Pin To Net: NetName=I2C_SCL_1V8 Pin=SCL_1-1
+Added Pin To Net: NetName=I2C_SDA_1V8 Pin=SDA_1-1
+Added Member To Class: ClassName=Power Stage Member=Component GND 5003
+Added Member To Class: ClassName=Off-Board Sensors Member=Component SCL_1 Via
+Added Member To Class: ClassName=Off-Board Sensors Member=Component SDA_1 Via

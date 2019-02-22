@@ -1,0 +1,2 @@
+Removed Pin From Net: NetName=iSENSE_ADC Pin=U1-40
+Added Pin To Net: NetName=iSENSE_ADC Pin=U1-14

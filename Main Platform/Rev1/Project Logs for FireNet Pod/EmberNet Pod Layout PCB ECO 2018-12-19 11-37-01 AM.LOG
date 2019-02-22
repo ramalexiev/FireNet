@@ -1,0 +1,17 @@
+Removed Member From Class: ClassName=Off-Board Sensors Member=SCL
+Removed Member From Class: ClassName=Off-Board Sensors Member=SDA
+Change Component Designator: OldDesignator=CLK NewDesignator=CLK_1
+Change Component Designator: OldDesignator=CS NewDesignator=CS_1
+Change Component Designator: OldDesignator=MISO NewDesignator=MISO_1
+Change Component Designator: OldDesignator=MOSI NewDesignator=MOSI_1
+Change Component Designator: OldDesignator=SCL NewDesignator=S_SCL
+Change Component Designator: OldDesignator=SDA NewDesignator=S_SDA
+Change Component Designator: OldDesignator=VBAT NewDesignator=S_VBAT
+Added Pin To Net: NetName=OB_I2C_SDA Pin=Q3-3
+Added Pin To Net: NetName=OB_I2C_SCL Pin=Q3-6
+Added Pin To Net: NetName=OB_I2C_SCL Pin=S_SCL-1
+Added Pin To Net: NetName=OB_I2C_SDA Pin=S_SDA-1
+Added Pin To Net: NetName=OB_I2C_SDA Pin=U12-9
+Added Pin To Net: NetName=OB_I2C_SCL Pin=U12-10
+Added Member To Class: ClassName=Off-Board Sensors Member=Component S_SCL 5003
+Added Member To Class: ClassName=Off-Board Sensors Member=Component S_SDA 5003

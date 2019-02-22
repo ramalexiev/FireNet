@@ -1,0 +1,7 @@
+Removed Member From Class: ClassName=LoRa Transceiver Member=U13
+Added Component: Designator=D8(NSP4201MR6T1G)
+Add component. Clean all parameters for all variants
+Added Pin To Net: NetName=GND Pin=D8-2
+Added Pin To Net: NetName=3V3_OUT Pin=D8-4
+Added Member To Class: ClassName=Power Stage Member=Component D8 NSP4201MR6T1G
+Added Member To Class: ClassName=LoRa Transceiver Member=Component U9 SF2098E

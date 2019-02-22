@@ -1,0 +1,7 @@
+Removed Pin From Net: NetName=SPI_SX1272_CS Pin=R6-2
+Removed Pin From Net: NetName=SX1272_NRST Pin=U1-30
+Added Pin To Net: NetName=SPI_SX1272_CS Pin=R6-1
+Added Pin To Net: NetName=SX1272_NRST Pin=U1-29
+Added Pin To Net: NetName=NetR6_2 Pin=R6-2
+Added Pin To Net: NetName=NetR6_2 Pin=U1-25
+Added Net: Name=NetR6_2

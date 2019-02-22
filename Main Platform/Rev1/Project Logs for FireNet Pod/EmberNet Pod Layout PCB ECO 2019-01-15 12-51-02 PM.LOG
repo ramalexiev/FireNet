@@ -1,0 +1,16 @@
+Removed Pin From Net: NetName=3V3_OUT Pin=D8-4
+Change Component Footprint: Designator=D8 Old Footprint=NSP4201MR6T1G New Footprint=ESDS312DBVR - duplicate
+Change Component Comment : Designator=D8 Old Comment=NSP4201MR6T1G New Comment=ESDS312DBVR
+Added Component: Designator=C50(0603 Capacitor)
+Add component. Clean all parameters for all variants
+Add component (AddParameter): Name = "LatestRevisionDate"; Value = "29-May-2009"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "LatestRevisionNote"; Value = "IPC-7351 Footprint Added."; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "PackageDescription"; Value = "Chip Capacitor"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "PackageReference"; Value = "C1206"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Published"; Value = "8-Jun-2000"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Publisher"; Value = "Altium Limited"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = "100nF"; VariantName = "[No Variations]"
+Added Pin To Net: NetName=GND Pin=C50-1
+Added Pin To Net: NetName=3V3_OUT Pin=C50-2
+Added Member To Class: ClassName=Power Stage Member=Component C50 885012206046
+Added Member To Class: ClassName=LoRa Transceiver Member=Component U7 SX1272IMLTRT

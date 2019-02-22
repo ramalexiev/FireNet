@@ -1,0 +1,5 @@
+Change Component Footprint: Designator=R16 Old Footprint=J1-0603 New Footprint=0603 Resistor
+Change Component Footprint: Designator=R17 Old Footprint=J1-0603 New Footprint=0603 Resistor
+Change Component Footprint: Designator=R43 Old Footprint=J1-0603 New Footprint=0603 Resistor
+Change Component Footprint: Designator=R45 Old Footprint=J1-0603 New Footprint=0603 Resistor
+Added Pin To Net: NetName=iSENSE_ADC Pin=U5-3

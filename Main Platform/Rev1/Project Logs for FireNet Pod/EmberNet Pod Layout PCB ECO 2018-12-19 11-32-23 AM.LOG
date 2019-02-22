@@ -1,0 +1,4 @@
+Added Pin To Net: NetName=OB_I2C_SDA Pin=Q3-3
+Added Pin To Net: NetName=OB_I2C_SCL Pin=Q3-6
+Added Pin To Net: NetName=OB_I2C_SCL Pin=SCL-1
+Added Pin To Net: NetName=OB_I2C_SDA Pin=SDA-1

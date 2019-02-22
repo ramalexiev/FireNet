@@ -1,0 +1,10 @@
+Removed Pin From Net: NetName=NetC35_1 Pin=U8-1
+Removed Pin From Net: NetName=NetC43_1 Pin=U8-3
+Added Pin To Net: NetName=NetC43_1 Pin=U8-1
+Added Pin To Net: NetName=NetC35_1 Pin=U8-3
+Added Room: Name=Debug
+Added Room: Name=LoRa Transceiver
+Added Room: Name=Microcontroller Interface
+Added Room: Name=Off-Board Sensors
+Added Room: Name=Power Stage
+Added Room: Name=Sensors
