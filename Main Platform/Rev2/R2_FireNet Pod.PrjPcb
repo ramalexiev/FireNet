@@ -28,7 +28,7 @@ DItemRevisionGUID=
 ReportSuppressedErrorsInMessages=0
 FSMCodingStyle=eFMSDropDownList_OneProcess
 FSMEncodingStyle=eFMSDropDownList_OneHot
-OutputPath=
+OutputPath=Project Outputs for R2_FireNet Pod
 LogFolderPath=
 ManagedProjectGUID=
 IncludeDesignInRelease=0
@@ -188,7 +188,28 @@ ClassGenCCAutoRoomEnabled=1
 ClassGenNCAutoScope=None
 DItemRevisionGUID=
 GenerateClassCluster=0
-DocumentUniqueId=NKQIKBDP
+DocumentUniqueId=CLDUGYCD
+
+[Document10]
+DocumentPath=R2_FireNet Pod.OutJob
+AnnotationEnabled=1
+AnnotateStartValue=1
+AnnotationIndexControlEnabled=0
+AnnotateSuffix=
+AnnotateScope=All
+AnnotateOrder=-1
+DoLibraryUpdate=1
+DoDatabaseUpdate=1
+ClassGenCCAutoEnabled=1
+ClassGenCCAutoRoomEnabled=1
+ClassGenNCAutoScope=None
+DItemRevisionGUID=
+GenerateClassCluster=0
+DocumentUniqueId=
+
+[GeneratedDocument1]
+DocumentPath=Project Outputs for R2_FireNet Pod\Design Rule Check - R2_EmberNet Pod Layout.html
+DItemRevisionGUID=
 
 [Parameter1]
 Name=Drawn By
@@ -226,7 +247,7 @@ AddNetPorts=-1
 ShowComponentParameters=-1
 GlobalBookmarks=0
 ExportBOM=0
-TemplateFilename=Board Stack Report.XLT
+TemplateFilename=C:\Users\ramal\Documents\4th Year\IGEN 430 - Capstone - FireNet\FireNet.git\trunk\Main Platform\Rev2\Board Stack Report.XLT
 TemplateStoreRelative=0
 PCB_PrintColor=1
 SCH_PrintColor=0
@@ -249,7 +270,7 @@ SCH_HasExpandLogicalToPhysicalSheets=-1
 SaveSettingsToOutJob=-1
 
 [Generic_EDE]
-OutputDir=
+OutputDir=Project Outputs for R2_FireNet Pod
 
 [OutputGroup1]
 Name=Netlist Outputs
