@@ -105,6 +105,10 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=MWYMFEGL
 
+[GeneratedDocument1]
+DocumentPath=Project Outputs for R2_EmberNet Sensor Board\Design Rule Check - R2_Sensor Board.html
+DItemRevisionGUID=
+
 [Configuration1]
 Name=Sources
 ParameterCount=0
